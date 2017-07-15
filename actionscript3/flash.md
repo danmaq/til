@@ -28,6 +28,7 @@
 * FlatSpark: Supported flat UI.
 * Supported Promise class. (look like ES2015)
 * MXML look like XAML.
+* Included font-awesome.
 
 ### Others
 
