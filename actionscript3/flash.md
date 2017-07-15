@@ -7,7 +7,7 @@
 * for AS3 Project
     * Can't use for Flex Project with MXML.
 
-### Falcon
+### Falcon compiler
 
 * FlexJS compiler?
     * __Very interesting__. I want to use this compiler for Flex Project.
@@ -15,13 +15,20 @@
 
 ## Compile option
 
-* -advanced-telemetry for Scout CC. but...
+* `-advanced-telemetry` for Scout CC. but...
     * Fail release build.
     * Disable Intellisense.
 
 ----
 
-## Flex
+## Apache Flex
 
-* FYI: FlatSpark
+### Feature
+
+* FlatSpark: Supported flat UI.
+* Supported Promise class. (look like ES2015)
+* MXML look like XAML.
+
+### Others
+
 * Base component move to fx:Declarations when extend to MXML class.
