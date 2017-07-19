@@ -1,5 +1,10 @@
 # ActionScript3/Flash
 
+## Animate CC Extension
+
+* fl Object
+* `Document.exportPNG(fileURI:String, bCurrentPNGSettings:Boolean=false, bCurrentFrame:Boolean=false):Boolean`
+
 ## Compile tools
 
 ### ASC2.0
