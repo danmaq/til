@@ -11,3 +11,10 @@
 3. __`meteor npm install`__
 4. `meteor`
 5. open `http://localhost:3000/` via browser.
+
+## Available ES.next
+
+### IE11 Supported
+
+* String `trimLeft`, `trimRight`
+* Class field and static field.
