@@ -12,8 +12,12 @@
 
 ## Keywords
 
-* Redux
 * Flux
+
+## modules
+
+* react-native-router-flux
+* Redux
 
 ## misc.
 
