@@ -19,6 +19,11 @@
 * react-native-router-flux
 * Redux
 
+## React JSX
+
+* embedding HTML in JavaScript, like E4X.
+* Element vars __must be PascalCase__.
+
 ## misc.
 
 * Initial Screen resolution
