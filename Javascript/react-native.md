@@ -1,5 +1,9 @@
 # javascript/react-native
 
+## Setup
+
+* Require npm 4.6.x when create and first launch project in aug.2017 version.
+
 ## Styles
 
 * flexbox
