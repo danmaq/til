@@ -11,9 +11,7 @@
 
 ## UI
 
-* Touchable
-* Button
-* InputText
+* ReactNative support Liquid-layout. But __unsupported Responsive layout__.
 
 ## Keywords
 
