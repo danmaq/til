@@ -26,6 +26,7 @@
 
 * embedding HTML in JavaScript, like E4X.
 * Element vars __must be PascalCase__.
+* If use js-beautify, use `"e4x": true` in .jsbeautifyrc file.
 
 ## misc.
 
