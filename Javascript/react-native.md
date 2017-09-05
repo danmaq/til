@@ -13,9 +13,20 @@
 
 * ReactNative support Liquid-layout. But __unsupported Responsive layout__.
 
-## Keywords
+## Trouble-shoot
 
-* Flux
+### Fail on npm start plobrem.
+
+```
+child_process.js:614
+    throw err;
+    ^
+
+Error: spawnSync /Users/danmaq/src/Repos/netch-native/node_modules/react-native/local-cli/setup_env.sh EACCES
+    at _errnoException (util.js:1041:11)
+```
+
+-> `find node_modules/react-native -name '*.sh' | xargs chmod a+x`
 
 ## modules
 
