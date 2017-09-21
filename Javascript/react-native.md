@@ -7,7 +7,8 @@
 
 ## Styles
 
-* flexbox
+* flexbox e.g.: `flex`
+* aspectRatio
 
 ## UI
 
